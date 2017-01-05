@@ -14,6 +14,7 @@ SYSADMIN Usefull scripts in python
     2. SpeedTest 
     3. Pingcheck
     4. Webstatus
+    5. Check Interfaces
     8. Exit/Quit
     9. Dependencies (INSTALL IF FIRST TIME!)
     """)
@@ -37,6 +38,11 @@ SYSADMIN Usefull scripts in python
       print("\n Running WebStatus")
       os.system("\n python webstatus.py")
       print("\n WebStatus has finished") 
+
+    elif ans=="5":
+      print("\n Running Check Interfaces")
+      os.system("\n python interfaces.py")
+      print("\n Check Interfaces has finished") 
 
     elif ans=="8":
       print("\n Goodbye")
