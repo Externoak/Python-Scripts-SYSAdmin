@@ -21,3 +21,5 @@ Current Scripts.
 		 Pingcheck. Will ping all IP's at specified network checking who's active. 
 				
 		 Webstatus. Will check specified domain and check if it's currently working.
+		 
+		 CheckInterface. Will check specified interface and print to terminal main info.
