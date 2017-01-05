@@ -46,6 +46,7 @@ SYSADMIN Usefull scripts in python
 
     elif ans=="8":
       print("\n Goodbye")
+      print ""
       sys.exit() 
 
     elif ans=="9":

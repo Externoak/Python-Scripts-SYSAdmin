@@ -1,7 +1,8 @@
 import subprocess
 import os
+print ""
+range = raw_input(" Specify Network (X.X.X.X): ")
 
-range = raw_input("Network range: ")
 with open(os.devnull, "wb") as limbo:
         for n in xrange(1, 254):
                lista = range.split(".")
