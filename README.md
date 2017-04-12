@@ -1,7 +1,5 @@
 # Python-Scripts-SYSAdmin
 
-(Work in progress)
-
 How to use:
 		
        git clone https://github.com/Externoak/Python-Scripts-SYSAdmin.git
@@ -10,7 +8,7 @@ How to use:
 			 
 			 INSTALL Dependencies if it's your first time. (Option "9")
 			 
-Just navitage the menu with the option you need.
+Just navigate the menu and choose the option you wish to run.
 
 Current Scripts.
 
